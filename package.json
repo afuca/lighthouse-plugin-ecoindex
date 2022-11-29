@@ -1,0 +1,9 @@
+{
+  "name": "lighthouse-plugin-ecoindex",
+  "version": "0.0.1",
+  "private": true,
+  "main": "./plugin.js",
+  "dependencies": {
+    "lighthouse": "^9.5.0"
+  }
+}
